@@ -1,5 +1,5 @@
-Flask==2.2.5
-transformers==4.31.0  # If using Hugging Face transformers
-torch==2.0.1         # If using PyTorch (used by Hugging Face)
-scikit-learn==1.3.0  # If models are trained with scikit-learn
+Flask
+transformers
+torch
+scikit-learn
 Gunicorn
