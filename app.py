@@ -52,4 +52,4 @@ def predict_model1():
     return jsonify({'prediction': y})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run()
